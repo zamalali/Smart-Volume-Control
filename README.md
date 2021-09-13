@@ -1,2 +1,2 @@
-# Smart-Volume-Control
-Controlling system volume with hand gestures.
+# Smart-Hand-Detection
+Detection of Hands in real time using tensorflow Lite.
